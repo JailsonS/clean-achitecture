@@ -30,8 +30,12 @@ class Student
         return new Student($cpf, $name, $email);
     }
 
-    public function addPhone(string $ddd, string $number)
+    public function addPhone(string $ddd, string $number): self
     {
+        if(count($this->phones) === 2) {
+            throw new \DomainException('Aluno já possui 2 telefones!');
+        }
+
         $this->phones[] = new Phone($ddd, $number);
         return $this;
     }
