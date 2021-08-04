@@ -1,5 +1,5 @@
 <?php
-namespace Src\application\registerStudent;
+namespace Src\academy\application\registerStudent;
 
 class DtoRegisterStudent
 {

@@ -1,4 +1,5 @@
 <?php
+namespace Src\shared\domain\event;
 
 use Src\domain\Event;
 use Src\domain\EventListner;

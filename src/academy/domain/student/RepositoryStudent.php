@@ -1,5 +1,5 @@
 <?php
-namespace Src\domain\student;
+namespace Src\academy\domain\student;
 
 use Src\domain\Cpf;
 use Src\domain\student\Student;

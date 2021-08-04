@@ -1,5 +1,5 @@
 <?php
-namespace Src\domain;
+namespace Src\Shared\Domain;
 
 class Cpf
 {

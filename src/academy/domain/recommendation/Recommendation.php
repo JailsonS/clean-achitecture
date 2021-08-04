@@ -1,5 +1,5 @@
 <?php
-namespace Src\domain\recommendation;
+namespace Src\academy\domain\recommendation;
 
 use Src\domain\student\Student;
 

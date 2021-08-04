@@ -1,5 +1,5 @@
 <?php
-namespace Src\application\registerStudent;
+namespace Src\academy\application\registerStudent;
 
 use Src\domain\EventPublisher;
 use Src\domain\student\Student;

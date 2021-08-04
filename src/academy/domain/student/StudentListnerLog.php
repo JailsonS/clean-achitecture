@@ -1,5 +1,5 @@
 <?php 
-namespace Src\domain\student;
+namespace Src\academy\domain\student;
 
 use Src\domain\Event;
 use Src\domain\EventListner;

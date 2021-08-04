@@ -1,6 +1,5 @@
 <?php
-namespace Src\domain;
-
+namespace Src\academy\domain;
 
 class Email
 {

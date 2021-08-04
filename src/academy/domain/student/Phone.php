@@ -1,6 +1,5 @@
 <?php
-namespace Src\domain\student;
-
+namespace Src\academy\domain\student;
 
 class Phone
 {

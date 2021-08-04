@@ -1,5 +1,5 @@
 <?php
-namespace Src\application\recommendation;
+namespace Src\academy\application\recommendation;
 
 interface SendRecommendationEmail
 {
